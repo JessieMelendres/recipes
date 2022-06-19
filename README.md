@@ -1,2 +1,3 @@
-# recipes
-A recipe page using basic HTML and CSS
+# Recipes
+
+A recipe page using basic HTML and CSS.
